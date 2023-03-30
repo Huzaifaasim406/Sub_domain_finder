@@ -2,7 +2,7 @@
 this tool is used for finding subdomains of any website
 for setting up this tool 
 1. Open your terminal in kali linux write these commands there
-2.  apt install assetfinder
+2. apt install assetfinder
 4. go install -v github.com/owasp-amass/amass/v3/...@master
 5. cd Downloads
 6. write command: chmod +x run.sh
