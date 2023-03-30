@@ -6,4 +6,4 @@ for setting up this tool
 3. cd Downloads
 4. write command: chmod +x run.sh
 5. ./run.sh  tesla.com 
-if place of tesla.com you can enter your website domain so it will work in this case it will search tesla website domains
+6. if place of tesla.com you can enter your website domain so it will work in this case it will search tesla website domains
